@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: RapidExpCart
-Plugin URI: http://www.rapidexp.com
+Plugin URI: http://cart.rapidexp.com
 Description: ショッピングカートシステムRapidExpCartを、WordPressのデザインテンプレートで表示させるためのプラグインです。
 Version: 0.10
 Author: MIKOME Yoshiyuki
