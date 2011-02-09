@@ -3,8 +3,8 @@ Contributors: rapidexp
 Donate link: http://cart.rapidexp.com/resume/
 Tags: shopping,cart,EC
 Requires at least: 2.0.2
-Tested up to: 2.9.2
-Stable tag: 0.10
+Tested up to: 3.0.4
+Stable tag: 1.0
 
 RapidExpCartはショッピングカートシステムで、WordPressプラグインとショッピングカート本体の２つのプログラムから構成されます。
 
@@ -58,11 +58,16 @@ RapidExpCartはカスタムオーダーの本格ECシステムをベースにしています。
 
 == Changelog ==
 
+= 1.0 =
+* テンプレートページににrobotsのメタタグを追加
+* イベントとダウンロードのマークアップを追加
+* 無効なマークアップを画面出力しないようにした
+
 = 0.10 =
 * WordPress.orgで公開
 
 == Upgrade Notice ==
 
-= 0.10 =
-ブログコンテントに埋め込めるマークアップを追加しました。
+= 1.0 =
+プラグイン1.0は本体プログラム1.0以降用ですが、異なるバージョンを組み合わせて使用しても支障はありません。
 

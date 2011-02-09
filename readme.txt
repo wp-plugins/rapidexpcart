@@ -3,8 +3,8 @@ Contributors: rapidexp
 Donate link: http://cart.rapidexp.com/resume/
 Tags: shopping,cart,EC
 Requires at least: 2.0.2
-Tested up to: 2.9.2
-Stable tag: 0.10
+Tested up to: 3.0.4
+Stable tag: 1.0
 
 RapidExpCart is a shopping cart system composed of two programs that consist of a WordPress plugin and a main program.
 
@@ -58,11 +58,16 @@ I wait for contact from several supporters or contributors.
 
 == Changelog ==
 
+= 1.0 =
+* Add a meta tag of robots for the template page.
+* Add markups of the event page and the download page.
+* Don not display invalid markup.
+
 = 0.10 =
 * The first version in WordPress.org
 
 == Upgrade Notice ==
 
-= 0.10 =
-You may describe the markup in the blog content.
+= 1.0 =
+This plugin version 1.0 is for the main program version 1.0 later. But you may use a combination of different versions of each other.
 
